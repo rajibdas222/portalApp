@@ -1,0 +1,13 @@
+
+#flotPie1{
+    height: 90px;
+}
+
+.login-bg-img{
+
+  background-image: url(admin-bg-login.jpg);
+  background-repeat: no-repeat;
+  background-clip: content-box;
+  background-size: cover;
+  width: 100%;
+}
